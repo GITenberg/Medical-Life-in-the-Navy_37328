@@ -1,0 +1,30 @@
+_repo: Medical-Life-in-the-Navy_37328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Royal Navy -- Medical care -- Anecdotes'
+- !lcc 'V'
+- !lcsh 'Ship physicians -- Great Britain -- Anecdotes'
+title: Medical Life in the Navy
+url: http://www.gutenberg.org/ebooks/37328
